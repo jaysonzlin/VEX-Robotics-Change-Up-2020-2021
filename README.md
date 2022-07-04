@@ -1,4 +1,11 @@
 # VEX-Robotics-Change-Up-2020-2021
+
+##Description
+
+<Insert video file here>
+![fullfield_1](https://user-images.githubusercontent.com/52141513/177196422-70f8c476-7f2f-4e9a-84e1-ce72a79f4fdd.jpg)
+https://youtu.be/Hxs0q9UoMDQ
+  
 This is a reupload of VEX Team 92287's code for the 2020-2021 VEX Robotics Competition: Change Up. The code was coded on VEXcode V5 aka C++ with VEX API.   
 This code helped team 92287X become VEX Worlds Arts Division Semifinalist and Georgia State Robot Skills Champion.
 Additionally, it helped sister team 92287A becom VEX Worlds Engineering Division Quarterfinalist, Georgia State Robot Skills Champion Runner-Ups, and Irwin County Tournament Robot Skills Champion.
