@@ -1,9 +1,8 @@
 # VEX-Robotics-Change-Up-2020-2021
 
-##Description
+## Description
 
-<Insert video file here>
-![image](https://user-images.githubusercontent.com/52141513/177196633-a2c3347b-325b-4138-a257-567e1f1ff2a7.png)
+
 https://youtu.be/Hxs0q9UoMDQ
   
 This is a reupload of VEX Team 92287's code for the 2020-2021 VEX Robotics Competition: Change Up. The code was coded on VEXcode V5 aka C++ with VEX API.   
