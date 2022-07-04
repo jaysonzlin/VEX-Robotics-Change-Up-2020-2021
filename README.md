@@ -19,6 +19,7 @@ Being the only programmer of the two sister teams 92287X and 92287A, I was taske
 ## Guide to the Code
 Files ending in .h are header files for their corresponding .cpp files
 106.cpp is a non-functional file containing our State Champion and State Runner-Ups 106 point run for the Robot Skills Challenge; it's meant to be pasted into main.cpp for Robot Skills  
+  
 main.cpp is a file based on VEX's own competition template and serves as the place where all the code is run  
 opControl.cpp is a file holding controller mappings to motors  
 stuff.cpp is a file holding the autonomous functions of the robot  
