@@ -14,7 +14,8 @@ Homerow Auton:
 https://user-images.githubusercontent.com/52141513/177208520-14c590c5-0bbd-4cd2-9f44-c6affe6ed865.mp4  
 
 106 Run (State Champions and Runner-Ups)  
-<img src = 'vex_change_up/robot_skills.png' width = '800'>
+<img src = 'vex_change_up/robot_skills.png' width = '800'>  
+https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-VRC-21-4367.html#results
 
 ## Background
 Being the only programmer of the two sister teams 92287X and 92287A, I was tasked with programming the Robot Skills and autonomous portion of our robot competition. At this time, I had never programmed, but I understood basic programming concepts. What you see is the result of many hours of self-teaching myself C++ with VEX API, forum browsing for what others in the community had done, and testing the program to work in real-time on a VEX competition field. All of this while still playing a key part in constructing the robot and leading the team. Needless to say, the code isn't the greatest in the world, but it did its job on a team with very little time to spare on anything apart from building the robot.
