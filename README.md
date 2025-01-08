@@ -3,6 +3,8 @@
 ## About
 <img src="vex_change_up/vexcup.jpg" width = '400'> <img src="vex_change_up/field.PNG" width = '600'>
 https://youtu.be/Hxs0q9UoMDQ
+
+## For odometry algorithms, refer to https://github.com/jaysonzlin/RobotOdometryAndMotion
   
 This is a reupload of VEX Team 92287's code for the 2020-2021 VEX Robotics Competition: Change Up. The code was coded on VEXcode V5 aka C++ with VEX API.   
 This code helped team 92287X become VEX Worlds Arts Division Semifinalist and Georgia State Robot Skills Champion.  
